@@ -1,4 +1,3 @@
-![logo]([[https://github.com/AbhishekJ24/AbhishekJ24/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcode-driveby--764837949221236977%2F&psig=AOvVaw2mEPl4AT-1PratXwik6Xn1&ust=1698585950387000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIC-sfPrmIIDFQAAAAAdAAAAABAE)](https://github.com/AbhishekJ24/AbhishekJ24/blob/main/87f3f1425b217691da645e97dbb50d55.gif))
 <h1 align="center">Hi 👋, I'm Abhishek Joshi</h1>
 <h3 align="center">A passionate frontend developer and AI/ML enthusiast from India</h3>
 <img align="right" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="coding"/>
