@@ -1,3 +1,4 @@
+![logo](https://github.com/AbhishekJ24/AbhishekJ24/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Abhishek Joshi</h1>
 <h3 align="center">A passionate frontend developer and AI/ML enthusiast from India</h3>
 <img align="right" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="coding"/>
