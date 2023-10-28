@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **full stack web development**
 
-- 💬 Ask me about **dsa, html, css, js**
+- 💬 Ask me about **DSA, HTML, CSS, JS**
 
 - 📫 How to reach me **abhishekjoshiofficial24@gmail.com**
 
