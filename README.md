@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **network routing algorithms implementation and comparative study**
 
-- 🌱 I’m currently learning **full stack web development**
+- 🌱 Dabbling myself into **full stack web development**
 
 - 💬 Ask me about **DSA, HTML, CSS, JS**
 
