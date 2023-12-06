@@ -12,6 +12,8 @@ Hi 👋, I'm Abhishek Joshi<br>An aspiring software engineer, passionate fronten
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekJ24&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekJ24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![@abhishekj24's Holopin badges, Click on the badge to view my profile!!](https://holopin.me/abhishekj24)](https://holopin.io/@abhishekj24)
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
