@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Abhishek Joshi<br>An aspiring software engineer, passionate frontend developer and AI/ML enthusiast from India<img align="right" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="coding"/><br>🔭 I’m currently working on NetRoute - implementation of network routing algorithms and comparative study<br>🌱 I’m currently learning full stack web development<br>💬 Ask me about dsa, web dev, ml<br>📫 How to reach me abhishekjoshiofficial24@gmail.com<br>⚡ Fun fact i think i am humorous
+Hi 👋, I'm Abhishek Joshi<br>An aspiring software engineer, passionate frontend developer and AI/ML enthusiast from India<img align="right" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="coding"/><br>🔭 I’m currently working on few web dev projects<br>🌱 I’m currently learning full stack web development<br>💬 Ask me about dsa, web dev, ml<br>📫 How to reach me abhishekjoshiofficial24@gmail.com<br>⚡ Fun fact i think i am humorous
 
 
 ## 🌐 Socials:
