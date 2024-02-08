@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **abhishekjoshiofficial24@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1h0q2YAlruNxv5gBT5RMFoMx5FeymcGrl/view?usp=sharing](https://drive.google.com/file/d/1h0q2YAlruNxv5gBT5RMFoMx5FeymcGrl/view?usp=sharing)
-
 - ⚡ Fun fact **i think i am humorous**
 
 <h3 align="left">Connect with me:</h3>
