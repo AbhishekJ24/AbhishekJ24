@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Joshi</h1>
-<h3 align="center">An aspiring software engineer, passionate full stack developer and AI/ML enthusiast from India</h3>
+<h3 align="center">A Full stack developer, ML/DL Enthusiast and an aspiring Software Engineer from India</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on computer vision and large language models<br>🌱 I’m currently learning react.js<br>💬 Ask me about dsa, web dev, ml<br>📫 How to reach me abhishekjoshiofficial24@gmail.com<br>⚡ Fun fact i think i am humorous<br>
@@ -26,5 +26,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbhishekJ24&icon=8&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
