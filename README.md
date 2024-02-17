@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Joshi</h1>
-<h3 align="center">A Full stack developer, ml/dl enthusiast and an aspiring software engineer from india</h3>
+<h3 align="center">A full stack developer, ml/dl enthusiast and an aspiring software engineer from india</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on computer vision and large language models<br>🌱 I’m currently learning react.js<br>💬 Ask me about dsa, web dev, ml<br>📫 How to reach me abhishekjoshiofficial24@gmail.com<br>⚡ Fun fact i think i am humorous<br>
