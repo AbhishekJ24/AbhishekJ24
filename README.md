@@ -4,7 +4,6 @@
 # 💫 About Me:
 🔭 I’m currently working on computer vision and large language models<br>🌱 I’m currently learning react.js<br>💬 Ask me about dsa, web dev, ml<br>📫 How to reach me abhishekjoshiofficial24@gmail.com<br>⚡ Fun fact i think i am humorous<br>
 
--
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therealabhishekjoshi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-joshi-5b9609219) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/___loucypher666) 
 
