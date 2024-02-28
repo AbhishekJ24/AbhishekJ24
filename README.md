@@ -24,8 +24,6 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbhishekJ24&icon=10&color=12)](https://visitcount.itsvg.in)
-
-[![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=AbhishekJ24.AbhishekJ24&style=flat-square&logo=react&logoColor=white&labelColor=24292E&color=61DAFB)](https://github.com/AbhishekJ24)
+[![](https://visitcount.itsvg.in/api?id=AbhishekJ24&icon=24&color=12)](https://visitcount.itsvg.in)
 
 
