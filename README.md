@@ -24,6 +24,6 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbhishekJ24&icon=24&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AbhishekJ24&label=Stalkers&color=0&pretty=true)](https://visitcount.itsvg.in)
 
 
