@@ -24,7 +24,8 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=AbhishekJ24)
 [![](https://visitcount.itsvg.in/api?id=AbhishekJ24&icon=8&color=12)](https://visitcount.itsvg.in)
-[![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=AbhishekJ24.AbhishekJ24&style=flat-square&logo=react&logoColor=61DAFB&labelColor=24292E&color=blue)](https://github.com/AbhishekJ24)
+
+[![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=AbhishekJ24.AbhishekJ24&style=flat-square&logo=react&logoColor=white&labelColor=24292E&color=61DAFB)](https://github.com/AbhishekJ24)
+
 
