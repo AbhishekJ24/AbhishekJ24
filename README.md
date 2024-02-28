@@ -24,4 +24,5 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=your_github_username)
 [![](https://visitcount.itsvg.in/api?id=AbhishekJ24&icon=8&color=12)](https://visitcount.itsvg.in)
