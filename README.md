@@ -17,6 +17,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbhishekJ24&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
+<a href="https://app.daily.dev/abhishekj24"><img src="https://api.daily.dev/devcards/v2/S91DU1NLulHB9GuMbhxno.png?r=9dp&type=default" width="356" alt="Abhishek Joshi's Dev Card"/></a>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
