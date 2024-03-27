@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" object-fit="cover" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
+<img width="100%" height = "250px" object-fit="contain" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Abhishek Joshi</h1>
