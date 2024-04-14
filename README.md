@@ -2,6 +2,7 @@
 <img width="100%" height = "250px" object-fit="contain" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
 </div>
 
+<br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Futura&size=40&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Abhishek+Joshi" alt="Typing SVG" /></a>
 
 <h3 align="center">A full stack developer, ml/dl enthusiast and an aspiring software engineer from india</h3>
