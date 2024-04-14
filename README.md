@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&pause=1000&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Abhishek+Joshi)](https://git.io/typing-svg)
 
-<h3 align="center">A full stack developer, ml/dl enthusiast and an aspiring software engineer from india</h3>
+<h3> A full stack developer, ml/dl enthusiast and an aspiring software engineer from india</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on computer vision and large language models<br>🌱 I’m currently learning react.js<br>💬 Ask me about dsa, web dev, ml<br>📫 How to reach me abhishekjoshiofficial24@gmail.com<br>⚡ Fun fact i think i am humorous<br>
