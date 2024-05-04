@@ -4,12 +4,12 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&pause=1000&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Abhishek+Joshi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&pause=800&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Abhishek+Joshi)](https://git.io/typing-svg)
 
 <h3> A full stack developer, ml/dl enthusiast and an aspiring software engineer from india</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on computer vision and large language models<br>🌱 I’m currently learning react.js<br>💬 Ask me about dsa, web dev, ml<br>📫 How to reach me abhishekjoshiofficial24@gmail.com<br>⚡ Fun fact i think i am humorous<br>
+🔭 I’m currently working on problem solving and its real world applications<br>🌱 I’m currently learning next.js<br>💬 Ask me about dsa, web dev, ml<br>📫 How to reach me abhishekjoshiofficial24@gmail.com<br>⚡ Fun fact i think i am humorous<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therealabhishekjoshi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-joshi-5b9609219) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/___loucypher666) 
