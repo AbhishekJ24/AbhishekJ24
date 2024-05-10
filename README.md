@@ -1,7 +1,6 @@
 <div align="center">
 <img width="100%" height = "250px" object-fit="contain" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
 </div>
-
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&pause=800&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Abhishek+Joshi)](https://git.io/typing-svg)
@@ -24,7 +23,6 @@
 <a href="https://github.com/AbhishekJ24?tab=repositories&q=&type=&language=scikit&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg"></a>
 <a href="https://github.com/AbhishekJ24?tab=repositories&q=&type=&language=pytorch&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg"></a>
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AbhishekJ24&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekJ24&theme=react&hide_border=false)<br/>
@@ -41,5 +39,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbhishekJ24&label=Stalkers&color=0&pretty=true)](https://visitcount.itsvg.in)
-
-
