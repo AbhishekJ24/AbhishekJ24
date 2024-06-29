@@ -16,6 +16,7 @@
 # 💻 Tech Stack:
 
 <a href="https://github.com/AbhishekJ24?tab=repositories&q=&type=&language=java&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg"></a>
+<a href="https://github.com/AbhishekJ24?tab=repositories&q=&type=&language=junit&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/junit.svg"></a>
 <a href="https://github.com/AbhishekJ24?tab=repositories&q=&type=&language=c&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg"></a>
 <a href="https://github.com/AbhishekJ24?tab=repositories&q=&type=&language=python&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"></a>
 <a href="https://github.com/AbhishekJ24?tab=repositories&q=&type=&language=scikit&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg"></a>
