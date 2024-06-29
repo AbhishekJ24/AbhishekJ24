@@ -24,7 +24,7 @@
 <a href="https://github.com/AbhishekJ24?tab=repositories&q=&type=&language=tailwind&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg"></a>
 <a href="https://github.com/AbhishekJ24?tab=repositories&q=&type=&language=reactjs&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"></a>
 <a href="https://github.com/AbhishekJ24?tab=repositories&q=&type=&language=redux&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg"></a>
-<a href="https://github.com/AbhishekJ24?tab=repositories&q=&type=&language=express&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg" style="filter: invert();"></a>
+<a href="https://github.com/AbhishekJ24?tab=repositories&q=&type=&language=express&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg"></a>
 <a href="https://github.com/AbhishekJ24?tab=repositories&q=&type=&language=mongodb&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg"></a>
 <a href="https://github.com/AbhishekJ24?tab=repositories&q=&type=&language=docker&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg"></a>
 
