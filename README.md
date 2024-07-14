@@ -8,7 +8,7 @@
 <h3> A full stack developer, ml/dl enthusiast and an aspiring software engineer from india</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on problem solving and its real world applications<br>🌱 I’m currently learning next.js<br>💬 Ask me about dsa, web dev, ml<br>📫 How to reach me abhishekjoshiofficial24@gmail.com<br>⚡ Fun fact i think i am humorous<br>
+🔭 I’m currently working on problem solving and real world applications of computer vision<br>🌱 I’m currently learning next.js, solidity and rust<br>💬 Ask me about dsa, web dev, ml<br>📫 How to reach me abhishekjoshiofficial24@gmail.com<br>⚡ Fun fact i think i am humorous<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therealabhishekjoshi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-joshi-5b9609219) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/___loucypher666) 
@@ -24,7 +24,6 @@
 <a href="https://github.com/AbhishekJ24?tab=repositories&q=&type=&language=tailwind&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg"></a>
 <a href="https://github.com/AbhishekJ24?tab=repositories&q=&type=&language=reactjs&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"></a>
 <a href="https://github.com/AbhishekJ24?tab=repositories&q=&type=&language=redux&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg"></a>
-<a href="https://github.com/AbhishekJ24?tab=repositories&q=&type=&language=express&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg"></a>
 <a href="https://github.com/AbhishekJ24?tab=repositories&q=&type=&language=mongodb&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg"></a>
 <a href="https://github.com/AbhishekJ24?tab=repositories&q=&type=&language=docker&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg"></a>
 
