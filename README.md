@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **nextjs with typescript**
 
-- 💬 Ask me about **full stack and ai/ml**
+- 💬 Ask me about **full stack, ai/ml and nlp**
 
 - 📫 How to reach me **abhishekjoshiofficial24@gmail.com**
 
