@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **facesync (a real time attendance system powered by opencv and python)**
 
-- 🌱 I’m currently learning **nextjs with typescript**
+- 🌱 I’m currently learning **solidity and rust**
 
 - 💬 Ask me about **full stack, ai/ml and nlp**
 
