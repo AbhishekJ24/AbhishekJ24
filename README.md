@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Joshi</h1>
 <h3 align="center">A full stack developer, ml/dl enthusiast and an aspiring software engineer from india</h3>
 
-- 🔭 I’m currently working on **facesync (a real time attendance system powered by opencv and python)**
+- 🔭 I’m currently working as a **front end engineer at jtg**
 
-- 🌱 I’m currently learning **solidity and rust**
+- 🌱 I’m currently learning **golang**
 
 - 💬 Ask me about **full stack, ai/ml and nlp**
 
