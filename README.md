@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Joshi</h1>
 <h3 align="center">A full stack developer, ml/dl enthusiast and an aspiring software engineer from india</h3>
 
-- 🔭 I’m currently working as a **front end engineer at jtg**
+- 🔭 I’m currently working as a **front end engineer** at **jtg**
 
 - 🌱 I’m currently learning **golang**
 
