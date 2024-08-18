@@ -37,6 +37,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekj24&" alt="abhishekj24" /></p>
 
 <br/>
-<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekj24&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekj24" /> </p>
