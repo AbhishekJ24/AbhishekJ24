@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working as a **front end engineer** at **jtg**
 
-- 🌱 I’m currently learning **golang**
-
 - 💬 Ask me about **full stack, ai/ml and nlp**
 
 - 📫 How to reach me **abhishekjoshiofficial24@gmail.com**
