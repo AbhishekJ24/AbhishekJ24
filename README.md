@@ -3,14 +3,11 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Abhishek Joshi</h1>
-<h3 align="center">A full stack developer, ml/dl enthusiast and an aspiring software engineer from india</h3>
+<h3 align="center">A full stack developer from india</h3>
 
 - 🔭 I’m currently working as a **front end engineer** at **jtg**
-
 - 💬 Ask me about **full stack, ai/ml and nlp**
-
 - 📫 How to reach me **abhishekjoshiofficial24@gmail.com**
-
 - ⚡ Fun fact **you're stalking me right now**
 
 <h3 align="left">Connect with me:</h3>
